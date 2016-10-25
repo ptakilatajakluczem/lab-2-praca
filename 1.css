@@ -3,13 +3,8 @@
 	.port
 	{
 	height: auto;
-	background-color: aqua;
-	}
-	
-	.klej
-	{
-	height: auto;
-	background-color: lightblue;
+	background-color: blue;
+
 	}
 }
 
@@ -21,9 +16,4 @@
 	background-color: green;
 	}
 	
-	.klej
-	{
-	height: auto;
-	background-color: red;
-	}
 }
