@@ -1,0 +1,19 @@
+@media screen and (device-width: 750px) and (orientation: portrait) 
+{
+	.port
+	{
+	height: auto;
+	background-color: blue;
+
+	}
+}
+
+@media screen and (device-width: 1334px) and (orientation: landscape) 
+{
+	.port
+	{
+	height: auto;
+	background-color: green;
+	}
+	
+}
